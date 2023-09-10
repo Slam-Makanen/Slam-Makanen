@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my skills - mainly in DevOps<br>🌱 I’m currently learning more about Python.<br>🤔 I’m looking for help with CI/CD.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - willorder81@gmail.com<br>⚡ Fun fact: My favourite artist is Marilyn Manson.
+🔭 I'm currently working on my skills - mainly in DevOps<br>🌱 I’m currently learning more about Python.<br>🤔 I’m looking for help with CI/CD.<br>💬 Ask me about any tech-related stuff.<br>⚡ Fun fact: My favourite artist is Marilyn Manson.
 
 
 ## 🌐 Socials:
